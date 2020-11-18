@@ -1,11 +1,33 @@
 [
   {
-    "name": "Curve Bow",
-    "description": "Curve bow lets you hit enemies from the distance."
+    "username": "Vegetita777",
+    "goldpersecond": "9999",
+    "level": "869"
   },
   {
-    "name": "Longsword",
-    "description": "Longsword slays the biggest enemies ez."
+    "username": "JCMarchoso",
+    "goldpersecond": "7890",
+    "level": "589"
+  },
+  {
+    "username": "NachoMovistar",
+    "goldpersecond": "6500",
+    "level": "450"
+  },
+  {
+    "username": "JimmyTowers",
+    "goldpersecond": "5240",
+    "level": "333"
+  },
+  {
+    "username": "Ivanov",
+    "goldpersecond": "4666",
+    "level": "266"
+  },
+  {
+    "username": "Virulilla69",
+    "goldpersecond": "2500",
+    "level": "128"
   }
 ]
   
