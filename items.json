@@ -1,5 +1,4 @@
-{
-  "Item": [
+[
     {
       "name": "Curve Bow",
       "description": "Curve bow lets you hit enemies from the distance."
@@ -8,5 +7,4 @@
       "name": "Longsword",
       "description": "Longsword slays the biggest enemies ez."
     }
-  ]
-}
+ ]
