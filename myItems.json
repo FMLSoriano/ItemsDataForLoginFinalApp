@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Long Bow",
+    "cost": "500G",
+    "description": "Long Bows are used for long distances and are lethal when used by elphs"
+  },
+  {
+    "name": "Short Bow",
+    "cost": "400G",
+    "description": "Short Bows are fast but short ranged. Hunt a rat or something."
+  },
+  {
+    "name": "Long Sword",
+    "cost": "550G",
+    "description": "This sword is TOO heavy. It listens to Slipknot and similars."
+  },
+  {
+    "name": "Big Maze",
+    "cost": "800G",
+    "description": "Splash! Splash!"
+  },
+  {
+    "name": "Ancient Spellbook",
+    "cost": "1200G",
+    "description": "Reading is mentaly healthy, but reading spells is deadly dangerous."
+  },
+  {
+    "name": "Official Mage Hat",
+    "cost": "1500G",
+    "description": "You do look like a real mage with this turbo-amazing cool hat."
+  },
+  {
+    "name": "Gold Chain",
+    "cost": "9999G",
+    "description": "U the one. U the f***ing one in the hood bro."
+  },
+  {
+    "name": "Gang Pistol",
+    "cost": "2000G",
+    "description": "Hang carefully, could shoot without warning."
+  },
+  {
+    "name": "Grandma Knife",
+    "cost": "4600G",
+    "description": "There is only scarier than your mum with a slipper, and that is your grandma with a knife when you do not eat all the food."
+  },
+  {
+    "name": "Grandpa Clock",
+    "cost": "7000G",
+    "description": "Grandpa looking his clock is the most elegant thing a human can witness."
+  },
+  {
+    "name": "Computer Keyboard",
+    "cost": "1G",
+    "description": "Old computer keyboard used to slap faces in many 80s offices."
+  },
+  {
+    "name": "Broken glass",
+    "cost": "Free",
+    "description": "You drunk? I am."
+  },
+  {
+    "name": "Furious Cat",
+    "cost": "10G & Food",
+    "description": "Pet and take care of this animal like he was your son <3. He is lovely and scary. Named TOM."
+  }
+]
